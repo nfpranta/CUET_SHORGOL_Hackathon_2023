@@ -1,3 +1,3 @@
 # CUET_SHORGOL_Hackathon_2023
 
-Could not build a end-to-end pipeline because of not knowing how to do so
+This is the submission for the NLP Hackathon my team participated organized by Bangladesh Open Source Network(BdOSN). We developed a deep learning model along with a feature based model according to the rule of the competition.
